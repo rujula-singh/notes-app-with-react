@@ -24,5 +24,4 @@ This app allows users to create and delete notes with a clean and responsive UI.
 
 ---
 
-## 📂 Project Structure
 
